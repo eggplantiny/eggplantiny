@@ -1,6 +1,6 @@
 ### Hello I'm eggplantiny 😄
 
-[![eggplantiny's github stats](https://github-readme-stats.vercel.app/api?username=eggplantiny)](https://github.com/anuraghazra/github-readme-stats)
+[![eggplantiny's github stats](https://github-readme-stats.vercel.app/api?username=eggplantiny&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 I love in javascript 😉
 <!--
