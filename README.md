@@ -1,9 +1,8 @@
 ### Hello I'm eggplantiny
- 😄
 
 [![eggplantiny's github stats](https://github-readme-stats.vercel.app/api?username=eggplantiny&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-I wanna be a self-motivated person.
+I wanna be a self-motivated person. 😄
 
 And I also want to be a person who can inspire you a lot 😉.
 
