@@ -2,7 +2,10 @@
 
 [![eggplantiny's github stats](https://github-readme-stats.vercel.app/api?username=eggplantiny&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-I love in javascript 😉
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eggplantiny&layout=compact)](https://github.com/eggplantiny/eggplantiny)
+
+
+I love in javascript and typescript 😉
 <!--
 **eggplantiny/eggplantiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
