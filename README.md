@@ -1,11 +1,10 @@
-### Hello I'm eggplantiny 😄
+### Hello I'm eggp 😄
 
 [![eggplantiny's github stats](https://github-readme-stats.vercel.app/api?username=eggplantiny&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eggplantiny&layout=compact)](https://github.com/eggplantiny/eggplantiny)
+I wanna be a self-motivated person.
 
-
-I love in javascript and typescript 😉
+And I also want to be a person who can inspire you a lot 😉.
 <!--
 **eggplantiny/eggplantiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
